@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankitaashok20
-- 👀 I’m interested to learning coding and iproving my skills in Cyber Security
+- 👀 I’m interested to learning coding and improving my skills in Cyber Security
 - 🌱 I’m currently pursuing my B.Tech from National Institute of Technology Karnataka
 - 💞️ I’m looking to collaborate on Compititive Coding
 - 📫 You could reach me through my e-mail id.
